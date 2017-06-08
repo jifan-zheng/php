@@ -1,0 +1,73 @@
+.main{
+	background:url(../Images/bg-main.png) repeat-x left top;
+	background-color:#fff;
+	padding:10px 0px;
+}
+/*公司介绍*/
+.main .left{width:220px;background-color:#ECEDF2;}
+.left .aboutus .title{
+	height:36px;
+	line-height:36px;
+	background:url(../Images/bg-type02.png) no-repeat;
+	font-size:14px;
+	color:#fff;
+	font-weight:bold;
+	padding-left:40px;
+	border-bottom:1px solid #cccccc;
+}
+.left .aboutus .content{
+	padding:10px 30px;
+}
+.left .aboutus .content li{
+	height:30px;
+	line-height:30px;
+	padding-left:40px;
+	border-bottom:1px solid #A9C7AD;
+	border-top:1px solid #ffffff;
+	font-size:14px;
+	font-weight:bold;
+	background:url(../Images/icon02.png) no-repeat 10px center;
+}
+
+/*联系我们*/
+.contact{height:100%;}
+.contact .title{
+	height:36px;
+	line-height:36px;
+	background:url(../Images/bg-type03.png) no-repeat;
+	font-size:14px;
+	color:#fff;
+	font-weight:bold;
+	padding-left:40px;
+	border-bottom:1px solid #cccccc;
+}
+.contact .content{padding:10px 10px;line-height:24px;}
+.contact .content img{padding:5px 10px;}
+.contact .content p{padding:5px 0px;}
+
+/*右层内容*/
+.right{width:750px;}
+.right .title{
+	height:36px;
+	line-height:36px;
+	padding-left:10px;
+	background:url(../Images/bg-type04.png) no-repeat left center;
+	border-bottom:1px solid #cccccc;
+}
+.right .content{
+	font-size:16px;
+	font-family:"宋体";
+	line-height:160%;
+	padding:15px;
+}
+.right .content p{
+	margin-bottom:10px;
+	padding:10px;
+	text-indent:28px;
+	font-size:14px;
+	background-color:#f0f0f0;
+	border:1px solid #dddddd;
+}
+.right .content td{margin:0px;padding:0px;font-size:12px;}
+.right .content .txt{width:200px;}
+.right .content .area{width:500px;height:150px;}

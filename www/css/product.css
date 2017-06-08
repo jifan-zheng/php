@@ -1,0 +1,63 @@
+.main{
+	background:url(../Images/bg-main.png) repeat-x left top;
+	background-color:#fff;
+	padding:10px 0px;
+}
+/*公司介绍*/
+.main .left{width:220px;background-color:#ECEDF2;}
+.left .product .title{
+	height:36px;
+	line-height:36px;
+	background:url(../Images/bg-type02.png) no-repeat;
+	font-size:14px;
+	color:#fff;
+	font-weight:bold;
+	padding-left:40px;
+	border-bottom:1px solid #cccccc;
+}
+.left .product .content{
+	padding:10px 30px;
+}
+.left .product .content li{
+	height:30px;
+	line-height:30px;
+	padding-left:40px;
+	border-bottom:1px solid #A9C7AD;
+	border-top:1px solid #ffffff;
+	font-size:14px;
+	font-weight:bold;
+	background:url(../Images/icon02.png) no-repeat 10px center;
+}
+
+/*联系我们*/
+.contact{height:100%;}
+.contact .title{
+	height:36px;
+	line-height:36px;
+	background:url(../Images/bg-type03.png) no-repeat;
+	font-size:14px;
+	color:#fff;
+	font-weight:bold;
+	padding-left:40px;
+	border-bottom:1px solid #cccccc;
+}
+.contact .content{padding:10px 10px;line-height:24px;}
+.contact .content img{padding:5px 10px;}
+.contact .content p{padding:5px 0px;}
+
+/*右层内容*/
+.right{width:750px;}
+.right .title{
+	height:36px;
+	line-height:36px;
+	padding-left:10px;
+	background:url(../Images/bg-type04.png) no-repeat left center;
+	border-bottom:1px solid #cccccc;
+}
+.right .attr{padding:20px;text-align:center;}
+.right .attr h4{padding:20px;font-size:28px;}
+.right .attr div{padding:5px;border:1px solid #e8e8e8;background-color:#f7f7f7;}
+.right .content{font-size:16px;font-family:"宋体";line-height:160%;padding:10px;}
+.right .content p{margin-bottom:10px;}
+.right .content li{float:left;text-align:center;margin:10px;font-size:12px;}
+.right .content li img{width:140px;height:160px;border:1px solid #eeeeee;padding:10px;}
